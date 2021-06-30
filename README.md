@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello World 👋
+### 🔭 I’m currently working on my LinkedIn Bio and Github Profile
 <!--
 **JarothD/JarothD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
