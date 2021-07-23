@@ -1,6 +1,6 @@
 ### Hello World 👋
-### This is **[Jaroth](https://www.linkedin.com/in/JarothD/)**, FullStack Developer 
-
+### This is **[Jaroth](https://www.linkedin.com/in/JarothD/)**
+### FullStack JavaScript Developer
 <img src="https://i.giphy.com/media/Xb7eRQoYbSJ6Knf0sV/giphy.webp" width="480" height="480" />
 
 ### Principal Abilities
