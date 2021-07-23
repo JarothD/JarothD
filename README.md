@@ -1,6 +1,6 @@
 ### Hello World 👋
-### This is **[Jarothi](https://www.linkedin.com/in/JarothD/)**, FullStack Developer 
-<img src="https://media.giphy.com/media/cge9nG7e7wKWbMm9cY/giphy.gif" alt="">
+### This is **[Jaroth](https://www.linkedin.com/in/JarothD/)**, FullStack Developer 
+
 ### Principal Abilities
 React - 
 Redux - 
@@ -14,5 +14,11 @@ Express -
 PostgreSQL - 
 GitHub - 
 Scrum - 
+
+### Contact ME 💬
+- ![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaroth.dev@gmail.com) jaroth.dev@gmail.com
+- ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/jaroth-dev/
+- ![phone badge](https://img.shields.io/badge/-📱teléfono-onfirmational) +57 316 729-3992
+- ![Whats App](https://img.shields.io/badge/-Whats%20App-brightgreen) https://wa.link/4vgui0
 <!--
 **JarothD/JarothD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
