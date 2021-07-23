@@ -1,5 +1,5 @@
 ### Hello World 👋
-### This is **[Jaroth](https://www.linkedin.com/in/JarothD/)**
+### This is **[Jaroth](https://www.linkedin.com/in/Jaroth-dev/)**
 ### FullStack JavaScript Developer
 <img src="https://i.giphy.com/media/Xb7eRQoYbSJ6Knf0sV/giphy.webp" width="480" height="480" />
 
