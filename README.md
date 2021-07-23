@@ -1,6 +1,8 @@
 ### Hello World 👋
 ### This is **[Jaroth](https://www.linkedin.com/in/JarothD/)**, FullStack Developer 
 
+<img src="https://gph.is/g/4o6zjML" alt="justaGif"/>
+
 ### Principal Abilities
 React - 
 Redux - 
