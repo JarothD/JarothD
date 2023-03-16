@@ -1,4 +1,11 @@
-### Hello World 👋
+<h5>Progress bar</h5>
+<div class="progress mb-3">
+  <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100">50%</div>
+  <div class="progress-bar bg-warning" role="progressbar" style="width: 30%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>
+  <div class="progress-bar bg-danger" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">20%</div>
+</div>
+
+<!-- ### Hello World 👋
 ### This is **[Jaroth](https://www.linkedin.com/in/Jaroth-dev/)**
 ### FullStack JavaScript Developer
 <img src="https://i.giphy.com/media/Xb7eRQoYbSJ6Knf0sV/giphy.webp" width="480" height="480" />
@@ -38,6 +45,6 @@ Scrum -
 - ![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaroth.dev@gmail.com) jaroth.dev@gmail.com
 - ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/jaroth-dev/
 - ![phone badge](https://img.shields.io/badge/-📱teléfono-onfirmational) +57 316 729-3992
-- ![Whats App](https://img.shields.io/badge/-Whats%20App-brightgreen) https://wa.link/4vgui0
+- ![Whats App](https://img.shields.io/badge/-Whats%20App-brightgreen) https://wa.link/4vgui0 -->
 <!--
 **JarothD/JarothD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
