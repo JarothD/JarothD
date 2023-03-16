@@ -1,9 +1,4 @@
-<h5>Progress bar</h5>
-<div class="progress mb-3">
-  <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100">50%</div>
-  <div class="progress-bar bg-warning" role="progressbar" style="width: 30%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>
-  <div class="progress-bar bg-danger" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">20%</div>
-</div>
+<h5>WIP...</h5>
 
 <!-- ### Hello World 👋
 ### This is **[Jaroth](https://www.linkedin.com/in/Jaroth-dev/)**
