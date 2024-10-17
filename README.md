@@ -1,6 +1,6 @@
 # Hola, soy Jaroth Diaz 👋
 
-![Banner de Jaroth Diaz](https://imgur.com/5Ocx6Rc)
+<img src="https://i.imgur.com/5Ocx6Rc.jpeg" alt="Banner de Jaroth Diaz" width="900" >
 
 ### 🚀 Desarrollador Full-Stack JavaScript | Amante del código y la creatividad
 
