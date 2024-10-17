@@ -1,5 +1,7 @@
 # Hola, soy Jaroth Diaz 👋
 
+![Banner de Jaroth Diaz](https://imgur.com/5Ocx6Rc)
+
 ### 🚀 Desarrollador Full-Stack JavaScript | Amante del código y la creatividad
 
 Soy un desarrollador web full-stack con experiencia en la creación de aplicaciones modernas y soluciones digitales potentes. Me encanta convertir ideas en realidad a través de código limpio y eficiente. Estoy constantemente aprendiendo nuevas tecnologías para mejorar y optimizar mis proyectos.
