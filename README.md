@@ -1,45 +1,30 @@
-<h5>WIP...</h5>
+# Hola, soy Jaroth Diaz 👋
 
-<!-- ### Hello World 👋
-### This is **[Jaroth](https://www.linkedin.com/in/Jaroth-dev/)**
-### FullStack JavaScript Developer
-<img src="https://i.giphy.com/media/Xb7eRQoYbSJ6Knf0sV/giphy.webp" width="480" height="480" />
+### 🚀 Desarrollador Full-Stack JavaScript | Amante del código y la creatividad
 
-### Principal Abilities
-React - 
-Redux - 
-JavaScript - 
-Node.js - 
-HTML - 
-GitHub - 
-Sequelize - 
-Databases - 
-Express - 
-PostgreSQL - 
-GitHub - 
-Scrum - 
+Soy un desarrollador web full-stack con experiencia en la creación de aplicaciones modernas y soluciones digitales potentes. Me encanta convertir ideas en realidad a través de código limpio y eficiente. Estoy constantemente aprendiendo nuevas tecnologías para mejorar y optimizar mis proyectos.
 
-# Proyectos:  
+- 🔭 Actualmente trabajando en: un proyecto de inteligencia artificial y arte 🎨🤖
+- 🌱 Aprendiendo más sobre: Unity y desarrollo de videojuegos 🕹️
+- 📫 ¿Te gustaría colaborar o necesitas ayuda en un proyecto? ¡Contáctame! [jarothd@gmail.com](mailto:jarothd@gmail.com)
+- ⚡ Dato curioso: Mi nombre completo es Lucas Jaroth Diaz Muños, pero me conocen como Jarothi.
 
-## CompuMundo APP: 
-### CompuMundo es un MarketPlace de hardware de computación que te ayuda a encontrar tu computadora ideal a través de un Quiz, o te ayuda a armar tu PC con los componentes que mas te guste, o simplemente puedes comprar en la tienda. Puedes convertirte en vendedor y publicar tus productos!
-##### Features: API propia / Formularios /Catalogo / Carrousel / Busquedas por Categoria / Login con Google & Email y contraseña (Pide verificación por email) / Busquedas, Filtros, Panel de Vendedor, Panel de Administración del Vendedor, Mis Compras, Favoritos, Carrito, Control de Stock, Pasarela de Pagos (MERCADOPAGO), QUIZ en base a tus respuestas te ofrece las mejores opciones, Armar TU PC podes elegir los componentes e ir armando tu computadora con todo lo necesario.
-<p align="center">
-    <img src="https://github.com/MB-ARG/MB-ARG/blob/main/images/proyects/compumundo_1.png" width="2000" height="800" align="center"/>
-    <img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="80" align="center"/>
-    <img src="https://github.com/MB-ARG/MB-ARG/blob/main/images/proyects/compumundo_2.png" width="2000" height="600" align="center"/>
-    <img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="80" align="center"/>
-    <img src="https://github.com/MB-ARG/MB-ARG/blob/main/images/proyects/compumundo_3.png" width="2000" height="600" align="center"/> 
-</p>  
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** JavaScript (ES6+), HTML, CSS, Java, C#
+- **Frontend:** React, Redux, Sass, Bootstrap, Angular
+- **Backend:** Node.js, Express.js, Spring Boot
+- **Bases de Datos:** PostgreSQL, MongoDB, MySQL, Oracle DB
+- **Otros:** Git/GitHub, Unity, Electron.js
 
-#### Puedes verlo haciendo Click [Aqui](https://github.com/G7-CMHMR)
+### 💼 Proyectos Destacados
+- **Certificados DOCX a PDF**: Conversor automático con Node.js y Electron.js.
+- **CRM para tienda de Economía Circular**: Sistema de gestión de clientes y ventas diseñado para un e-commerce de moda de segunda mano.
+- **CRM para empresa de certificados de alimentos**: Plataforma de gestión de clientes y generación de certificados digitales, optimizando el proceso de entrega y almacenamiento de documentos.
 
-<img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="80" align="center"/>
+### 💡 Mis Principios de Desarrollo
+- **Simplicidad ante todo:** Me gusta mantener el código limpio y fácil de entender.
+- **Orientado a soluciones:** Siempre busco la manera más eficiente de resolver problemas complejos.
+- **Trabajo en equipo:** Creo en la importancia de la colaboración y la comunicación abierta.
+- **Aprendizaje continuo:** Me mantengo al día con las últimas tecnologías y prácticas de desarrollo.
 
-### Contact ME 💬
-- ![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaroth.dev@gmail.com) jaroth.dev@gmail.com
-- ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/jaroth-dev/
-- ![phone badge](https://img.shields.io/badge/-📱teléfono-onfirmational) +57 316 729-3992
-- ![Whats App](https://img.shields.io/badge/-Whats%20App-brightgreen) https://wa.link/4vgui0 -->
-<!--
-**JarothD/JarothD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Estoy emocionado de compartir mi trabajo contigo y colaborar en proyectos que nos inspiren!
